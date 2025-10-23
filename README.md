@@ -1,9 +1,10 @@
-<<<<<<< HEAD
-# Subasta
-=======
-# Vue 3 + Vite
+# 🏷️ Subasta Frontend
+Este es el proyecto Sistema de Subastas.
+Se encarga de la interfaz gráfica donde los usuarios pueden visualizar subastas, iniciar sesión y realizar pujas en tiempo real.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
->>>>>>> b8884bf (Primer commit - proyecto Subasta Frontend)
+🚀 Tecnologías utilizadas:
+- Vue 3
+- Vite
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Router de Vue (para la navegación entre páginas)
